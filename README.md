@@ -25,7 +25,7 @@ These aren't isolated demos — they're one ecosystem. `qa-automation-framework`
 
 - I only put a technology on my CV once I've actually built something with it — no checkbox-collecting
 - Domain knowledge is the differentiator I lean on: I've debugged billing migrations and credit-risk logic that most automation engineers have never seen
-- AI is a tool I use daily (Claude, Cursor), not a buzzword on a slide — every repo above has an `LLM Layer` you can read the code for
+- AI is a tool I use daily (Claude, Cursor) rather than a buzzword on a slide. Most projects above include an AI-assisted component that can be inspected directly in the code.
 - Pragmatic over theoretical: I'd rather ship a working POC with a `LEARNINGS.md` than a perfect architecture diagram that never runs
 
 ---
