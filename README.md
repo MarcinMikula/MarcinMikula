@@ -30,6 +30,15 @@ These aren't isolated demos — they're one ecosystem. `qa-automation-framework`
 
 ---
 
+### 🌱 Currently exploring
+
+- Self-healing automation strategies — the core problem PhoenixQA is solving
+- LLM evaluation and benchmarking — Safe vs Autonomous healing accuracy
+- Agentic QA workflows — agents that read a bug ticket and act on it (defect-pilot)
+- Local vs cloud LLM trade-offs for regulated/enterprise test data
+
+---
+
 ### 🛠️ Stack
 
 `Python` `Playwright` `pytest` `SQLAlchemy` `Jira API` `Ollama` `Claude / Anthropic API` `GitHub Actions` `Allure`
