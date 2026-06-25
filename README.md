@@ -24,7 +24,7 @@ These aren't isolated demos — they're one ecosystem. `qa-automation-framework`
 ### 🧠 How I work
 
 - I only put a technology on my CV once I've actually built something with it — no checkbox-collecting
-- Domain knowledge is the differentiator I lean on: I've debugged billing migrations and credit-risk logic that most automation engineers have never seen
+- Domain knowledge is one of my key strengths: I've worked on billing migrations and credit-risk systems, bringing business context into test automation.
 - AI is a tool I use daily (Claude, Cursor) rather than a buzzword on a slide. Most projects above include an AI-assisted component that can be inspected directly in the code.
 - Pragmatic over theoretical: I'd rather ship a working POC with a `LEARNINGS.md` than a perfect architecture diagram that never runs
 
