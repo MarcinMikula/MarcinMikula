@@ -12,7 +12,7 @@ I test billing platforms, CRMs, and self-service portals for a living — and bu
 
 | Project | What it does |
 |---|---|
-| 🔥 **[PhoenixQA](https://github.com/MarcinMikula/PhoenixQA)** | Self-healing test framework — LLM diagnoses broken selectors (Shadow DOM, dynamic attrs) and repairs them, Safe or Autonomous mode, learns from every decision |
+| 🔥 **[PhoenixQA](https://github.com/MarcinMikula/PhoenixQA)** | AI-assisted self-healing test automation framework with Safe/Autonomous execution, failure classification, and measurable healing benchmarks. |
 | 🐛 **[defect-pilot](https://github.com/MarcinMikula/defect-pilot)** | AI agent that reproduces a Jira bug and generates a Playwright retest script from the ticket alone |
 | 🧪 **[llm-qa-toolkit](https://github.com/MarcinMikula/llm-qa-toolkit)** | LLM-as-judge framework for testing chatbots in regulated industries — hallucination, prompt injection, regression |
 | 🏗️ **[qa-automation-framework](https://github.com/MarcinMikula/qa-automation-framework)** | The skeleton underneath it all — Playwright + pytest, POM/SOM, SQLAlchemy, enterprise telco/CRM/billing context |
