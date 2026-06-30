@@ -1,6 +1,6 @@
 ### QA Engineer building AI-powered test automation — 13+ years across telco, banking & insurance, now turning that domain depth into autonomous testing tools.
 
-I test billing platforms, CRMs, and self-service portals for a living — and build agents that test (and heal) them for fun. Currently exploring how far LLMs can go in closing the loop between **bug found → bug reproduced → test fixed**, without a human re-typing a selector ever again.
+I test enterprise systems professionally and build open-source AI-assisted QA tools to explore practical applications of LLMs in software testing. My current work focuses on self-healing automation, defect analysis, and reliable evaluation of AI systems.
 
 ```
 13+ yrs QA  →  Python / Playwright / pytest  →  AI-assisted automation  →  ???
