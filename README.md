@@ -13,7 +13,7 @@ I test enterprise systems professionally and build open-source AI-assisted QA to
 | Project | What it does |
 |---|---|
 | 🔥 **[PhoenixQA](https://github.com/MarcinMikula/PhoenixQA)** | AI-assisted self-healing test automation framework with Safe/Autonomous execution, failure classification, and measurable healing benchmarks. |
-| 🐛 **[defect-pilot](https://github.com/MarcinMikula/defect-pilot)** | AI agent that reproduces a Jira bug and generates a Playwright retest script from the ticket alone |
+| 🐛 **[defect-pilot](https://github.com/MarcinMikula/defect-pilot)** | Privacy-first Jira defect enrichment assistant that checks ticket completeness, identifies critical gaps, safely enriches available context, and routes actionable defects using explicit project rules. |
 | 🧪 **[llm-qa-toolkit](https://github.com/MarcinMikula/llm-qa-toolkit)** | LLM-as-judge framework for testing chatbots in regulated industries — hallucination, prompt injection, regression |
 | 🏗️ **[qa-automation-framework](https://github.com/MarcinMikula/qa-automation-framework)** | The skeleton underneath it all — Playwright + pytest, POM/SOM, SQLAlchemy, enterprise telco/CRM/billing context |
 
