@@ -14,7 +14,7 @@ I test enterprise systems professionally and build open-source AI-assisted QA to
 |---|---|
 | 🔥 **[PhoenixQA](https://github.com/MarcinMikula/PhoenixQA)** | AI-assisted self-healing test automation framework with Safe/Autonomous execution, failure classification, and measurable healing benchmarks. |
 | 🐛 **[defect-pilot](https://github.com/MarcinMikula/defect-pilot)** | Privacy-first Jira defect enrichment assistant that checks ticket completeness, identifies critical gaps, safely enriches available context, and routes actionable defects using explicit project rules. |
-| 🧪 **[llm-qa-toolkit](https://github.com/MarcinMikula/llm-qa-toolkit)** | LLM-as-judge framework for testing chatbots in regulated industries — hallucination, prompt injection, regression |
+| 🧪 **[llm-qa-toolkit](https://github.com/MarcinMikula/llm-qa-toolkit)** | Configurable LLM evaluation framework for regulated domains — connects systems under evaluation and external evaluators through a validation engine that controls evidence, rules, assessment scope, and verdict boundaries. |
 | 🏗️ **[qa-automation-framework](https://github.com/MarcinMikula/qa-automation-framework)** | The skeleton underneath it all — Playwright + pytest, POM/SOM, SQLAlchemy, enterprise telco/CRM/billing context |
 
 These aren't isolated demos — they're one ecosystem. `qa-automation-framework` is the chassis, `PhoenixQA` keeps its selectors alive, `defect-pilot` closes bugs against it, `llm-qa-toolkit` applies the same AI-QA thinking to a different problem: testing LLMs themselves.
