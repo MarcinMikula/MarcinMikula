@@ -1,4 +1,4 @@
-### Quality Assurance Engineer exploring AI-assisted quality engineering — 13+ years across telco, banking & insurance.
+### Quality Assurance Engineer exploring AI-assisted quality engineering — 13+ years across telco, banking, insurance & ecom.
 
 I use these repositories primarily as a **learning and engineering workspace**.
 
