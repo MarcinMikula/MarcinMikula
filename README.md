@@ -112,4 +112,4 @@ A recurring principle across the projects is:
 
 ### 📍 Based in Warsaw — open to remote/hybrid roles
 
-[nofluffjobs profile](https://nofluffjobs.com/profile/QRSIUE1X) · ⚽ Fan of AI, Python, and Spanish football
+[nofluffjobs profile](https://nofluffjobs.com/profile/QRSIUE1X) · 
